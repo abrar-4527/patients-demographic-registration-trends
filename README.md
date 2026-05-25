@@ -153,8 +153,8 @@ It covers:
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Dashboard development, data modeling, visualization |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | Data extraction and initial filtering from source systems |
 | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) | Data staging, validation, and pre-processing |
-| **Power Query (M)** | ETL pipeline: cleaning, transformation, and shaping |
-| **DAX** | Calculated measures, KPIs, and dynamic aggregations |
+| ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat&logo=powerquery&logoColor=white) | ETL pipeline: cleaning, transformation, and shaping |
+| ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black) | Calculated measures, KPIs, and dynamic aggregations |
 
 ---
 
